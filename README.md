@@ -1,4 +1,4 @@
-![ZumZoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zumzoom&show_icons=true&theme=nord)
+[![ZumZoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zumzoom&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
